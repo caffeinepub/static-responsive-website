@@ -1,0 +1,9 @@
+{
+  "frontend/src/App.tsx": "Main application component that wraps the entire app with ThemeProvider and renders Header, Hero, ImageCarousel, Footer, and Toaster components.",
+  "frontend/src/components/Header.tsx": "Responsive navigation header with logo, desktop menu featuring a multi-level Services dropdown (using NavigationMenu with 7 categories and subcategories), mobile sheet menu with nested collapsible sections, and smooth scroll functionality for internal links.",
+  "frontend/src/components/Hero.tsx": "Full-screen hero section with background image overlay, gradient effects, main heading, subtitle, CTA buttons, and animated statistics display.",
+  "frontend/src/components/ImageCarousel.tsx": "Auto-playing carousel component showcasing four images with hover effects, navigation controls, and a features grid below, using React hooks (useState, useEffect, useCallback) for autoplay functionality.",
+  "frontend/src/components/Footer.tsx": "Comprehensive footer with brand section, social media links, organized link columns (Product, Company, Support), and attribution to caffeine.ai.",
+  "frontend/src/index.css": "Global styles with OKLCH color system featuring vibrant purple/magenta primary colors and smooth scroll behavior.",
+  "frontend/src/hooks/useQueries.ts": "Placeholder file for React Query hooks (empty as this is a static site with no backend data fetching)."
+}
